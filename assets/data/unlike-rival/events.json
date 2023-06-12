@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "moist",
+		"player1": "bf",
+		"player2": "moist",
+		"player3": null,
+		"events": [
+			[
+				2175,
+				[
+					[
+						"LetterBoxing",
+						"on",
+						"2"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"LetterBoxing",
+						"off",
+						"1"
+					]
+				]
+			],
+			[
+				19275,
+				[
+					[
+						"Flash",
+						"1",
+						"blue"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Camera Rotate",
+						"1",
+						"45"
+					]
+				]
+			],
+			[
+				31275,
+				[
+					[
+						"Camera Rotate",
+						"1",
+						"90"
+					]
+				]
+			],
+			[
+				33675,
+				[
+					[
+						"Camera Rotate",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.34"
+					],
+					[
+						"Camera Follow Pos",
+						"-270",
+						"40"
+					],
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.34"
+					]
+				]
+			],
+			[
+				56625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.03"
+					]
+				]
+			],
+			[
+				56925,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.03"
+					]
+				]
+			],
+			[
+				57300,
+				[
+					[
+						"Camera Rotate",
+						"0.5",
+						"360"
+					],
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.03"
+					]
+				]
+			],
+			[
+				69675,
+				[
+					[
+						"Camera Rotate",
+						"0.8",
+						"90"
+					]
+				]
+			],
+			[
+				70575,
+				[
+					[
+						"Camera Rotate",
+						"1",
+						"45"
+					]
+				]
+			],
+			[
+				71400,
+				[
+					[
+						"Camera Rotate",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				77175,
+				[
+					[
+						"Flash",
+						"1",
+						"blue"
+					]
+				]
+			],
+			[
+				82875,
+				[
+					[
+						"Camera Rotate",
+						"0.3",
+						"360"
+					]
+				]
+			],
+			[
+				96075,
+				[
+					[
+						"Flash",
+						"2",
+						"red"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Set characters camera zoom",
+						"player",
+						"1.1"
+					],
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.8"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"LetterBoxing",
+						"on",
+						"1"
+					]
+				]
+			],
+			[
+				133800,
+				[
+					[
+						"Flash",
+						"1",
+						"blue"
+					]
+				]
+			],
+			[
+				134475,
+				[
+					[
+						"Flash",
+						"1",
+						"blue"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "ddrmoist",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "unlike-rival"
+	}
+}

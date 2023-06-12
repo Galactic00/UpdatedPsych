@@ -1,0 +1,34 @@
+{
+  "BgColorChange": false,
+  "FlashAssetName": "menuBGMagenta",
+  "MenuBgAssetName": "menuBG",
+  "Options": [
+    {
+      "OptionAssetName": "freeplay",
+      "LoadState": "FreeplayState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "menu_test",
+      "LoadState": "OptionsState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "menu_test",
+      "LoadState": "DiscordIDState",
+      "Scale": [ 1, 1 ]
+    }
+  ],
+  "SelectSoundFileName": "confirmMenu",
+  "SoundFileName": "scrollMenu",
+  "Sprites": [
+    {
+      "AssetName": "ready",
+      "IdleAnimationName": "",
+      "Position": [ 35, 0 ],
+      "Scale": [ 0.35, 0.35 ],
+      "ScrollFactor": [ 0, 0.3 ],
+      "Tween": [ "y", 150, 5 ]
+    }
+  ]
+}

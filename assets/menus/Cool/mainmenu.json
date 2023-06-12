@@ -1,0 +1,69 @@
+{
+  "BgColorChange": false,
+  "FlashAssetName": "bottom",
+  "MenuBgAssetName": "poop",
+  "Options": [
+    {
+      "OptionAssetName": "story_mode",
+      "LoadState": "StoryMenuState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "menu_options",
+      "LoadState": "OptionsState",
+      "Scale": [ 1, 1 ]
+    }
+  ],
+  "SelectSoundFileName": "StevenLaugh",
+  "SoundFileName": "Steven",
+  "Sprites": [
+    {
+      "AssetName": "goof",
+      "IdleAnimationName": "",
+      "Position": [ 0, 300 ],
+      "Scale": [ 0.15, 0.15 ],
+      "ScrollFactor": [ 0, 0.3 ],
+      "Tween": [ "y", 250, 5 ]
+    },
+    {
+      "AssetName": "Steven",
+      "IdleAnimationName": "",
+      "Position": [ 925, 550 ],
+      "Scale": [ 0.3, 0.3 ],
+      "ScrollFactor": [ 0, 0.25 ],
+      "Tween": [ "y", 600, 5 ]
+    },
+    {
+      "AssetName": "babe",
+      "IdleAnimationName": "",
+      "Position": [ 980, -150 ],
+      "Scale": [ 0.3, 0.3 ],
+      "ScrollFactor": [ 0, 0.25 ],
+      "Tween": [ "y", -200, 5 ]
+    },
+    {
+      "AssetName": "jordan",
+      "IdleAnimationName": "",
+      "Position": [ 150, -100 ],
+      "Scale": [ 0.3, 0.3 ],
+      "ScrollFactor": [ 0, 0.25 ],
+      "Tween": [ "y", -150, 5 ]
+    },
+    {
+      "AssetName": "money",
+      "IdleAnimationName": "",
+      "Position": [ 955, 150 ],
+      "Scale": [ 0.3, 0.3 ],
+      "ScrollFactor": [ 0, 0.25 ],
+      "Tween": [ "y", 200, 5 ]
+    },
+    {
+      "AssetName": "bottom",
+      "IdleAnimationName": "",
+      "Position": [ 50, 550 ],
+      "Scale": [ 0.3, 0.3 ],
+      "ScrollFactor": [ 0, 0.25 ],
+      "Tween": [ "y", 600, 5 ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "BgColorChange": false,
+  "FlashAssetName": "BGGlowLights",
+  "MenuBgAssetName": "menuDesat",
+  "Options": [
+    {
+      "OptionAssetName": "story_mode",
+      "LoadState": "StoryMenuState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "freeplay",
+      "LoadState": "FreeplayState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "mods",
+      "LoadState": "ModsMenuState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "options",
+      "LoadState": "OptionsState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "discord",
+      "LoadState": "DiscordIDState",
+      "Scale": [ 1, 1 ]
+    }
+  ],
+  "SelectSoundFileName": "confirmMenu",
+  "SoundFileName": "scrollMenu",
+  "Sprites": []
+}

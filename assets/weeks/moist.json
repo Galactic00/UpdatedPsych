@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["unlike-rival", "moist", [0, 156, 255]],
+		["scare", "scare", [146, 0, 0]]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"storyName": "Improved Psych",
+	"weekName": "Improved Psych",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

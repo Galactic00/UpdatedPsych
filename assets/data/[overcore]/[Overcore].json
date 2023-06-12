@@ -1,0 +1,261 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [],
+		"notes": [
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100,
+						0,
+						0,
+						"Add Cam Zoom Large"
+					],
+					[
+						300,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						655,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						1000,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						1252.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						1542.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						1662.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						1602.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						1900,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						2130,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						2060,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						2407.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						2355,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						2282.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						2635,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						3000,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						3400,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						3557.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						3900,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4100,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4535,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4435,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4357.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4257.5,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4700,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						4900,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						4800,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						5100,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						5400,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						5600,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						5800,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						6100,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					],
+					[
+						6300,
+						0,
+						0,
+						"Add Cam Zoom Small"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "[Overcore]"
+	}
+}

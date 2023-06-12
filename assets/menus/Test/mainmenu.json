@@ -1,0 +1,29 @@
+{
+  "BgColorChange": false,
+  "FlashAssetName": "menuBGMagenta",
+  "MenuBgAssetName": "menuBG",
+  "Options": [
+    {
+      "OptionAssetName": "menu_test",
+      "LoadState": "FreeplayState",
+      "Scale": [ 1, 1 ]
+    },
+    {
+      "OptionAssetName": "menu_test",
+      "LoadState": "OptionsState",
+      "Scale": [ 1, 1 ]
+    }
+  ],
+  "SelectSoundFileName": "select",
+  "SoundFileName": "scroll",
+  "Sprites": [
+    {
+      "AssetName": "ready",
+      "IdleAnimationName": "",
+      "Position": [ 80, 0 ],
+      "Scale": [ 0.5, 0.5 ],
+      "ScrollFactor": [ 0, 0.3 ],
+      "Tween": [ "y", 250, 5 ]
+    }
+  ]
+}

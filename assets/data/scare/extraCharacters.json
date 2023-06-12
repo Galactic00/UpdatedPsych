@@ -1,0 +1,40 @@
+{
+  "extraCharacters": [
+    {
+      "characterName": "Poopooheadfox",
+      "bf": true,
+      "positions": [ -800, -50 ],
+      "startvisible":  false
+    },
+    {
+      "characterName": "fnafbf",
+      "bf": true,
+      "positions": [ -50, 350 ],
+      "startvisible": true
+    },
+    {
+      "characterName": "Guitarrrr",
+      "bf": true,
+      "positions": [ -115, 25 ],
+      "startvisible": false
+    },
+    {
+      "characterName": "freddy",
+      "bf": false,
+      "positions": [ 870, 150 ],
+      "startvisible": false
+    },
+    {
+      "characterName": "BoonyLoony",
+      "bf": false,
+      "positions": [ -500, -50 ],
+      "startvisible": false
+    },
+    {
+      "characterName": "Chica",
+      "bf": false,
+      "positions": [ 750, 100 ],
+      "startvisible": false
+    }
+  ]
+}

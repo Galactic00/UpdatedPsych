@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				-211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-41,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Leftt"
+		},
+		{
+			"offsets": [
+				-176,
+				-162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Rightt"
+		},
+		{
+			"offsets": [
+				-120,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Downn"
+		},
+		{
+			"offsets": [
+				-156,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Upp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Foooxy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-70,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
